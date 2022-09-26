@@ -17,7 +17,7 @@ gem "cli-ui", "~> 1.4"
 gem "thor", "~> 1.1"
 
 group :test do
-  gem "mocha", "~> 1.12"
+  gem "mocha", "~> 1.15"
   gem 'minitest'
   gem 'minitest-reporters'
 end
