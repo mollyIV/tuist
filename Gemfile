@@ -13,7 +13,7 @@ gem "xcodeproj", "~> 1.19"
 gem "highline", "~> 2.0"
 gem "rubyzip", "~> 2.3.0"
 gem "ruby-macho", "~> 1.4"
-gem "cli-ui", "~> 1.4"
+gem "cli-ui", "~> 2.1"
 gem "thor", "~> 1.1"
 
 group :test do
